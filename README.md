@@ -4,7 +4,7 @@ Question Number ===> 18
 
 Programming Language ===> Python
 
-Program description ===> 18th Exercise
+Program Description ===> 18th Exercise
 
 Example ===> Write A Program That Adds All The Values In The Above Dictionary Together
 
